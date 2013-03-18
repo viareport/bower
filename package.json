@@ -1,7 +1,7 @@
 {
   "name": "bower",
   "description": "The browser package manager.",
-  "version": "0.9.3",
+  "version": "0.8.5",
   "author": "Twitter",
   "licenses": [
     {
